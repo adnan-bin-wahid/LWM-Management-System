@@ -1,5 +1,5 @@
 {
-  "name": "file-integration-project",
+  "name": "file-integration-project2",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "csv-parser": "^3.0.0",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "pg": "^8.13.1"
-  },
-  "description": ""
+  }
 }
